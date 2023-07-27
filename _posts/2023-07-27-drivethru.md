@@ -5,7 +5,7 @@ excerpt: "드라이브 스루 셋팅."
 category:
 - Biz
 tags:
-- Biz, drive, thru, drivethru
+- Biz - drive - thru, drivethru
 last_modified_at: 2023-07-27T10:24
 ---
 
