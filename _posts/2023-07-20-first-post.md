@@ -64,8 +64,8 @@ https://www.google.com
 ```
 ![Keyboard image](https://devinlife.com/assets/images/bio-photo-keyboard-small.jpg)  
 
-table  
-| 항목 | 가격 | 개수 |  
-|:-----:|:-----:|-----|  
-| 아메리카노 | 4400원 | 10개 |  
-| 카페라떼 | 5000원 | 20개 |   
+table   
+| 항목 | 가격 | 개수 |   
+|:-----:|:-----:|-----|   
+| 아메리카노 | 4400원 | 10개 |    
+| 카페라떼 | 5000원 | 20개 |      
